@@ -1,6 +1,1 @@
-flask
-flask-sqlalchemy
-flask-login
-geopy
-pytz
-requests
+Zmxhc2sKZmxhc2stc3FsYWxjaGVteQpmbGFzay1sb2dpbgpnZW9weQpweXR6CnJlcXVlc3Rz
